@@ -1,7 +1,7 @@
 {
   "board": {
     "active_layer": 31,
-    "active_layer_preset": "",
+    "active_layer_preset": "aaa",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
@@ -57,14 +57,15 @@
       29,
       30,
       32,
+      33,
       34,
       35,
       36,
       39,
       40
     ],
-    "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "0031000_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "3x3-macropad.kicad_prl",
